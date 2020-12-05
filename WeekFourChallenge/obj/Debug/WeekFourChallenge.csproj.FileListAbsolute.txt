@@ -1,0 +1,7 @@
+C:\Users\jessi\source\repos\WeekFourChallenge\WeekFourChallenge\obj\Debug\WeekFourChallenge.csprojAssemblyReference.cache
+C:\Users\jessi\source\repos\WeekFourChallenge\WeekFourChallenge\obj\Debug\WeekFourChallenge.csproj.CoreCompileInputs.cache
+C:\Users\jessi\source\repos\WeekFourChallenge\WeekFourChallenge\bin\Debug\WeekFourChallenge.exe.config
+C:\Users\jessi\source\repos\WeekFourChallenge\WeekFourChallenge\bin\Debug\WeekFourChallenge.exe
+C:\Users\jessi\source\repos\WeekFourChallenge\WeekFourChallenge\bin\Debug\WeekFourChallenge.pdb
+C:\Users\jessi\source\repos\WeekFourChallenge\WeekFourChallenge\obj\Debug\WeekFourChallenge.exe
+C:\Users\jessi\source\repos\WeekFourChallenge\WeekFourChallenge\obj\Debug\WeekFourChallenge.pdb

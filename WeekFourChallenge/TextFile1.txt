@@ -1,0 +1,14 @@
+﻿
+
+
+**Create an abstract class. The theme can be of your choosing, just make sure it's something we haven't seen.
+Ex: Cookie, Shape, Vehicle, etc.
+
+**Give this class at least 3 properties and 1 virtual or abstract method.
+Feel free to add more, you're not limited to just these requirements!
+
+**Declare at least two classes that inherit from your abstract class.
+Make sure you implement all required members that need to be implemented
+
+**In your Main method, new up an instance of each class that inherits from the parent class you set up.
+Make sure to set all appropriate properties.
